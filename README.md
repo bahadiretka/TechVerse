@@ -31,7 +31,7 @@ simple shopping application using firebase
 
 ## apple pay demo
 
-![payment](Documentation/payment-demo.gif)
+<img src="Documentation/payment-demo.gif" width="250">
 
 
 
