@@ -7,11 +7,11 @@ simple shopping application using firebase
 
 ## search view with empty text 
 
-<img src="Documentation/search-view-1.png" width="250">
+<img src="Documentation/search-view-2.png" width="250">
 
 ## searching a product with category or product name
 
-<img src="Documentation/search-view-2.png" width="250">
+<img src="Documentation/search-view-1.png" width="250">
 
 ## empty cart
 
@@ -31,7 +31,7 @@ simple shopping application using firebase
 
 ## apple pay demo
 
-<img src="Documentation/payment-demo.gif" width="250">
+![payment](Documentation/payment-demo.gif)
 
 
 
