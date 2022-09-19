@@ -1,0 +1,34 @@
+[
+  {
+    "id" : 1,
+    "name" : "Computer"
+  },
+  {
+    "id" : 2,
+    "name" : "Gamepads"
+  },
+  {
+    "id" : 3,
+    "name" : "Keyboard & Mouse"
+  },
+  {
+    "id" : 4,
+    "name" : "Virtual Reality"
+  },
+  {
+    "id" : 5,
+    "name" : "Tablet PC"
+  },
+  {
+    "id" : 6,
+    "name" : "Game Console"
+  },
+  {
+    "id" : 7,
+    "name" : "Smart Watch"
+  },
+  {
+    "id" : 8,
+    "name" : "Monitor"
+  }
+]
